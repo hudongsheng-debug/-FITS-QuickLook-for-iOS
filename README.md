@@ -1,6 +1,6 @@
 # FITS QuickLook Mobile Version 1.0
 
-FITS QuickLook for iOS is a lightweight viewer for astronomical FITS images on iPhone and iPad.
+FITS QuickLook Mobile  is a lightweight viewer for astronomical FITS images on iPhone and iPad.
 
 ## Version 1.0 Features
 - Fast preview of FITS files (.fit, .fits, .fts)
