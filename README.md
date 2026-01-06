@@ -9,10 +9,6 @@ FITS QuickLook Mobile  is a lightweight viewer for astronomical FITS images on i
 - Touch interaction and Apple Pencil support on iPad
 - All processing is done locally on the device
 
-## Privacy
-This app does not collect, store, or share any personal data.
-All files are processed locally on the user's device.
-
-## Platform
-- iOS 17+
-- iPadOS 17+
+## Support
+If you need help, please contact:
+📧 Email: hudongsheng356@gmail.com
