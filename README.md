@@ -24,6 +24,7 @@ For iPhone and iPad ：
 
 ## Acknowledgements
 *Project* LAMOST，China
+
 Weimin Sun  Haiping Chen
 
 ## Support
