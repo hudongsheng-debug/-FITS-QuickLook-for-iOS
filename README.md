@@ -22,6 +22,9 @@ For iPhone and iPad ：
 - Added a warning dialog for invalid Clip Max values
 
 
+## Acknowledgements
+# project # ： LAMOST，China
+Weimin Sun  Haiping Chen
 
 ## Support
 If you need help, please contact:
