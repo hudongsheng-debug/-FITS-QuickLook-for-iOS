@@ -23,7 +23,7 @@ For iPhone and iPad ：
 
 
 ## Acknowledgements
-# project # ： LAMOST，China
+*Project* LAMOST，China
 Weimin Sun  Haiping Chen
 
 ## Support
