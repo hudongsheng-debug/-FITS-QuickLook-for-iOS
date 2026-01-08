@@ -11,7 +11,9 @@ I will do my best to respond as soon as possible.
 
 ## Platform Support
 iPad: Fully supported and optimized for large-screen interaction
+
 iPhone: Supported
+
 ⚠️ On iPhone, due to screen size limitations, some advanced features are currently unavailable.
 
 ## Supported file types
