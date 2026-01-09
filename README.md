@@ -1,4 +1,4 @@
-# FITS QuickLook Mobile Version 1.3.0
+# FITS QuickLook Mobile Version 1.4.0
 
 FITS QuickLook Mobile  is a lightweight viewer for astronomical FITS images on iPhone and iPad.
 
@@ -20,6 +20,12 @@ For iPhone and iPad ：
 For iPhone and iPad ：
 - Added a Reset button to restore the image display position
 - Added a warning dialog for invalid Clip Max values
+
+## Version 1.4.0 Features
+For iPhone and iPad ：
+- Added user-defined range selection for zooming
+- Improved axis display and coordinate interaction experience
+- Fixed some performance smoothness issues
 
 
 ## Acknowledgements
