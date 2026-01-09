@@ -51,8 +51,8 @@ For iPad and iPhone：
  
 - For iPad only:
 - Added reset functionality for the Profile Advanced panel
+- Updated Help content
 
-**Updated Help content**
 
 
 
