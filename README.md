@@ -44,12 +44,12 @@ For iPad ：
 
 ⚠️ iPhone: Due to device size limitations, the new features are not supported at this time
 
-## Version 2.2.1 Features
+## Version 2.2.1 Features ✅Beyond unprecedented.
 For iPad and iPhone：
 
 - Added version information display
  
-- For iPad only:*
+- For iPad only:
 - Added reset functionality for the Profile Advanced panel
 
 **Updated Help content**
