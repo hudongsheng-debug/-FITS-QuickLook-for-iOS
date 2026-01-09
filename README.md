@@ -1,4 +1,4 @@
-# FITS QuickLook Mobile Version 1.4.0
+# FITS QuickLook Mobile Version 2.1.2
 
 FITS QuickLook Mobile  is a lightweight viewer for astronomical FITS images on iPhone and iPad.
 
@@ -26,6 +26,23 @@ For iPhone and iPad ：
 - Added user-defined range selection for zooming
 - Improved axis display and coordinate interaction experience
 - Fixed some performance smoothness issues
+
+## Version 2.1.2 Features ✅Experience our biggest update ever.
+For iPad ：
+- 1.Added crosshair functionality
+- 2.Added a movable Profile panel
+- 3.Added a Lock feature to freeze the current selection
+- 4.Added an Advanced panel providing advanced features; the panel can be zoomed and moved
+- 5.Added a Pin feature allowing users to select a specific row or column fiber for image inspection
+- 6.Pin feature now supports multiple row/column selection
+- 7.Added a Clear function to remove all pinned row/column selections with one click
+- 8.Added CSV export support to export selected rows/columns as CSV files
+- 9.Added a difference mode with three formats: Delta, Raw, and Normal
+- 10.Fixed an issue where the Profile panel could not be zoomed
+- 11.Added a close (×) button to the Profile panel
+- 12.Added a Help button** to assist users in quickly understanding available features
+
+⚠️ iPhone: Due to device size limitations, the new features are not supported at this time
 
 
 ## Acknowledgements
