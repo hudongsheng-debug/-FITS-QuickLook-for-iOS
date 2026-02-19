@@ -68,9 +68,6 @@ For iPad and iPhone：
 - UI refinements for iPhone and iPad
 - Performance improvements for large datasets
 
-
-
-
 ## Acknowledgements
 *Project* LAMOST，China
 
